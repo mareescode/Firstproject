@@ -1,0 +1,10 @@
+git commonds-->
+1,create a local folder and file,
+2,git init,
+3,git status,
+4,git add .,
+5,git commit -m "created new folder and file",
+6,git remote add origin (https://github.com/mareescode/Firstproject.git)
+7,git branch, (master)
+4,git branch -m main,(change master to main)
+5,git push origin main
